@@ -33,7 +33,6 @@
 ## 📝 待办事项 TO DO
 
 ### 🎯 版本兼容性 Version Compatibility
-- [ ] **支持Minecraft 1.19.x** - *Support for Minecraft 1.19.x*
 - [ ] **支持Minecraft 1.21.x** - *Support for Minecraft 1.21.x*
 
 ### 🌏 本地化改进 Localization Improvements
