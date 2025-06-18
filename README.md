@@ -50,7 +50,7 @@
 - **Java**: ≥ 17
 - **服务端**: 需要配套的WebSocket服务器
 
-### 📦 安装 Installation
+### 📦 安装范例 Installation（Example）
 
 1. **下载mod文件** - Download the mod file
    ```
